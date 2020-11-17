@@ -1,5 +1,5 @@
 {
-  "name": "PlantWateringApp",
+  "name": "plant-watering-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -39,5 +39,11 @@
       "json",
       "node"
     ]
+  },
+  "prettier": {
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": true
   }
 }
